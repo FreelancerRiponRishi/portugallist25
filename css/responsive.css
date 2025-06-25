@@ -1,0 +1,832 @@
+
+@media screen and (min-width: 1240px) and (max-width: 30000px) {
+
+}
+
+@media screen and (min-width: 1240px) and (max-width: 1400px) {
+
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1239px) {
+.container {
+    padding: 0 30px;
+}
+
+
+.portugallist25-ofrbs-boxbtn a img {
+    height: 25px;
+}
+
+}
+
+
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+.container {
+    padding: 0 30px;
+}
+
+
+.portugallist25footerpr-part p br {
+    display: none;
+}
+
+.portugallist25footerlogos ul li a img {
+    height: 66px;
+}
+
+
+
+
+
+.portugallist25-ofrbsbox-score {
+    padding: 0 4px;
+}
+
+.portugallist25-offterboxlogo {
+    padding: 0 10px;
+}
+
+
+.portugallist25header-part {
+      padding: 55px 50px;  
+}
+
+.portugallist25headertext p br {
+    display: none;
+}
+
+.portugallist25headertext ul {
+
+    gap: 19px;
+}
+
+
+.portugallist25popular-part {
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 40px;
+    grid-row-gap: 50px;
+}
+
+
+
+
+.portugallist25-ofrbs-boxlogo {
+    width: 100%;
+    height: 133px;
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+
+.portugallist25-ofrbsbox-text {
+    width: 30%;
+    padding-left: 15px;
+}
+
+.portugallist25-ofrbsbox-text h3 {
+    font-size: 26px;
+    line-height: 35px;
+}
+
+.portugallist25-ofrbsbox-text p {
+    font-size: 18px;
+    line-height: 24px;
+    padding-top: 10px;
+}
+
+.portugallist25-ofrbsbox-star img {
+    height: 28px;
+}
+
+.portugallist25-ofrbsbox-star p {
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.portugallist25-ofrbsbox-score p {
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+
+.portugallist25-ofrbsbox-score h3 {
+    font-size: 32px;
+    line-height: 30px;
+}
+
+.portugallist25-ofrbs-boxbtn a {
+    font-size: 15px;
+    width: 100%;
+    height: 52px;
+    line-height: 52px;
+    gap: 12px;
+}
+
+
+.portugallist25-ofrbs-boxbtn a img {
+    height: 22px;
+}
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+.container {
+    padding: 0 30px;
+}
+
+.portugallist25-top18plus-area {
+    padding: 8px 30px;
+}
+
+.portugallist25header-part {
+    padding: 55px 25px;
+}
+
+.portugallist25headertext p br {
+    display: none;
+}
+
+.portugallist25headertext ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 15px;
+    justify-content: space-around;
+    grid-row-gap: 12px;
+    margin: auto;
+    width: 500px;
+}
+
+
+.portugallist25-ofrbs-boxbtn a img {
+    height: 26px;
+}
+
+
+
+.ziehharmonika .collapseIcon img {
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+
+
+
+.ziehharmonika h3 {
+    font-size: 19px;
+    padding-right: 80px;
+
+}
+
+
+.populargetbonus-part {
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 35px;
+    grid-row-gap: 35px;
+}
+
+.ziehharmonika > div {
+    font-size: 16px;
+    padding: 25px 0px;
+    padding-right: 30px;
+    margin-bottom: 0px;
+    line-height: 25px;
+    padding-top: 0px;
+}
+
+.portugallist25-min2bg-area {
+    padding: 110px 0;
+}
+
+.portugallist25footerpr-part p br {
+    display: none;
+}
+
+.portugallist25footer-nav ul li {
+    margin-right: 10px;
+}
+
+.portugallist25footer-nav ul li a {
+    font-size: 15px;
+}
+
+.portugallist25footerlogos ul li a img {
+    height: 49px;
+}
+
+
+
+
+.main-portugallist25-ofrbs-box {
+        display: block;
+        border: 1px solid #E4E4E4;
+        padding: 20px;
+        box-sizing: border-box;
+        padding-left: 53px;
+}
+
+.cmofrbsbox-bonus {
+    display: none;
+}
+
+.mbofrbsbox-bonus {
+    display: block;
+}
+
+
+.portugallist25-ofrbs-boxleft {
+    width: 100%;
+}
+
+.portugallist25-ofrbs-boxright {
+    width: 100%;
+    height: initial;
+    border: none;
+    display: flex;
+    align-items: center;
+    padding: 0 0px;
+    box-sizing: border-box;
+    border-left: 0px;
+    gap: 20px;
+    padding-top: 30px;
+}
+
+
+.portugallist25-ofrbsbox-bonus {
+    width: 40%;
+    height: initial;
+    border: none;
+    align-items: center;
+    padding: 0 0px;
+    box-sizing: border-box;
+    border-left: 0px;
+}
+
+.portugallist25-ofrbs-boxbtn {
+    width: 50%;
+}
+
+
+.portugallist25-offterboxlogo {
+    width: 40%;
+    position: relative;
+    height: initial;
+    border: none;
+    display: grid;
+    padding: 0 29px;
+    box-sizing: border-box;
+    border-right: 0px;
+}
+
+
+.portugallist25-ofrbsbox-text {
+    width: 50%;
+    height: initial;
+    border: none;
+    display: grid;
+    padding: 0 0px;
+    box-sizing: border-box;
+}
+
+
+.portugallist25-ofrbsbox-score {
+    width: 30%;
+    position: relative;
+    height: initial;
+    border: none;
+    padding: 0 0px;
+    box-sizing: border-box;
+    border-left: 0px;
+}
+
+
+.portugallist25-ofrbs-boxlogo {
+    position: relative;
+    width: 208px;
+
+}
+
+.portugallist25prtext-item1 p {
+    padding-bottom: 5px;
+}
+
+.txnewhero-area {
+    padding: 60px 0;
+    padding-bottom: 30px;
+}
+
+
+.cmofrbsbox-bonus {
+    display: none;
+}
+
+.portugallist25-offterboxlogo {
+    padding: 0 0px;
+    border-right: 0px;
+}
+
+.portugallist25-ofrbsbox-star {
+    width: 30%;
+}
+
+.portugallist25-ofrbsbox-score {
+    width: 30%;
+}
+
+
+.portugallist25popular-part {
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 40px;
+    grid-row-gap: 40px;
+}
+
+
+
+
+
+
+
+}
+
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+.portugallist25-top18plus-area {
+    padding: 8px 10px;
+}
+
+.portugallist25-top18plus-part p {
+    font-size: 9px;
+}
+
+.portugallist25headertext h1 {
+    font-size: 26px;
+    padding-bottom: 9px;
+    text-align: center;
+    line-height: 44px;
+}
+
+.portugallist25headertext p {
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.portugallist25headertext p br {
+    display: none;
+}
+
+.portugallist25headertext ul li img {
+    max-width: 100%;
+    height: 20px;
+}
+
+.portugallist25headertext ul {
+        padding-top: 20px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 15px;
+        justify-content: space-around;
+        grid-row-gap: 12px;
+        width: 270px;
+        margin: auto;
+}
+
+.portugallist25headertext ul li {
+    gap: 2px;
+}
+
+.portugallist25headertext ul li h6 {
+    font-size: 9px;
+    font-weight: 500;
+    padding-left: 2px;
+}
+
+.portugallist25main-area {
+    padding: 50px 0;
+    padding-bottom: 0px;
+    background-image: initial;
+}
+
+
+
+.main-portugallist25-ofrbs-box {
+    display: block;
+    padding: 16px 10px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.cmofrbsbox-bonus {
+    display: none;
+}
+
+.portugallist25-ofrbs-boxleft {
+    width: 100%;
+    gap: 10px;
+    padding-bottom: 11px;
+}
+
+
+.mbofrbsbox-bonus {
+    display: block;
+}
+
+.portugallist25-ofrbs-boxright {
+    width: 100%;
+    height: inherit;
+    border: none;
+    display: flex;
+    align-items: center;
+    padding: 0 0px;
+    box-sizing: border-box;
+    border-left: 0px;
+    gap: 10px;
+
+}
+
+
+.portugallist25-ofrbs-boxbtn {
+    width: 50%;
+}
+
+.portugallist25-ofrbsbox-bonus {
+    width: 40%;
+    height: initial;
+    border: none;
+    padding: 0 0px;
+    border-left: 0px;
+}
+
+.mbofrbsbox-bonus {
+    display: block;
+
+}
+
+.portugallist25-ofrbsbox-bonus p {
+    font-size: 12px;
+}
+
+.portugallist25-ofrbsbox-bonus h3 {
+    font-size: 18px;
+    padding-top: 0px;
+}
+
+.portugallist25-ofrbs-boxbtn a {
+    font-size: 11px;
+    width: 100%;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 6px;
+    gap: 7px;
+}
+
+
+.portugallist25-offterboxlogo {
+    width: 40%;
+    position: relative;
+    height: initial;
+    border: none;
+    padding: 0 0px;
+    box-sizing: border-box;
+    border-right: 0px;
+}
+
+
+.portugallist25-ofrbsbox-text {
+    width: 50%;
+    height: initial;
+    border: none;
+    padding: 0 0px;
+    box-sizing: border-box;
+}
+
+.portugallist25-ofrbs-boxbtn a img {
+    height: 20px;
+}
+
+.portugallist25-ofrbsbox-score {
+    width: 20%;
+    position: relative;
+    height: initial;
+    border: none;
+    padding: 0 0px;
+    border-left: 0px;
+}
+
+.portugallist25-ofrbsbox-star {
+    width: 35%;
+}
+
+.portugallist25-ofrbsbox-text h3 {
+    font-size: 16px;
+    line-height: 20px;
+    text-align: left;
+    padding-bottom: 0px;
+}
+
+.portugallist25-ofrbsbox-text p {
+    font-size: 12px;
+    line-height: 19px;
+    padding-top: 1px;
+    text-align: left;
+}
+
+.portugallist25-ofrbsbox-star img {
+    height: 21px;
+}
+
+.portugallist25-ofrbsbox-star p {
+    font-size: 12px;
+    padding-top: 4px;
+}
+
+.portugallist25-ofrbsbox-score p {
+    font-size: 12px;
+    padding-top: 4px;
+}
+
+.portugallist25-ofrbsbox-score h3 {
+    font-size: 25px;
+    line-height: 25px;
+}
+
+
+
+
+.portugallist25-ofrbs-box-area {
+    padding: 30px 0;
+    padding-bottom: 30px;
+}
+
+.mainoffer {
+    top: 4px;
+}
+
+
+
+
+.portugallist25prtext-hd h2 {
+    font-size: 27px;
+    line-height: 35px;
+    padding-bottom: 15px;
+}
+
+
+.portugallist25prtext-hd p {
+    font-size: 13px;
+    line-height: 22px;
+}
+
+
+.portugallist25prtext-item1 h2 {
+    font-size: 18px;
+    padding-bottom: 8px;
+    line-height: 25px;
+}
+
+.portugallist25prtext-item1 p {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 300;
+}
+
+
+.portugallist25prtext-hd {
+    padding-bottom: 25px;
+}
+
+.portugallist25prtext-area {
+    padding: 30px 0;
+    padding-bottom: 0;
+}
+
+
+.portugallist25-faqhd h2 {
+    font-size: 25px;
+}
+
+.portugallist25-faqhd {
+    padding-bottom: 30px;
+}
+
+
+.ziehharmonika h3 {
+    font-size: 14px;
+    text-align: left;
+    padding: 15px 0px;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding-right: 31px;
+}
+
+
+.ziehharmonika .collapseIcon {
+        right: 0;
+}
+
+.ziehharmonika .collapseIcon img {
+    width: 25px;
+    height: 25px;
+}
+
+.ziehharmonika > div {
+    font-size: 12px;
+    border-radius: 0px;
+    text-align: left;
+    padding: 0px 0px;
+    padding-bottom: 14px;
+    margin-bottom: 0px;
+    line-height: 21px;
+}
+
+.portugallist25-faq-area {
+    padding: 30px 0;
+    padding-top: 0px;
+}
+
+
+.portugallist25footerpr-part p br {
+    display: none;
+}
+
+.portugallist25footerpr-part p {
+    font-size: 12px;
+    line-height: 21px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+
+.portugallist25footer-nav ul li a {
+    font-size: 12px;
+}
+
+.portugallist25footer-nav ul li span {
+    font-size: 12px;
+}
+
+.portugallist25footer-nav ul li {
+    margin-right: 10px;
+    padding-bottom: 10px;
+}
+
+
+.portugallist25footerlogos ul li {
+    display: inline-block;
+    margin: 5px 4px;
+}
+
+.portugallist25footerlogos ul li a img {
+    height: 40px;
+}
+
+.portugallist25footer-nav ul {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
+.portugallist25footer-part {
+    padding-top: 40px;
+}
+
+.portugallist25-copyright-area p {
+    font-size: 12px;
+    margin: 0px;
+    line-height: 22px;
+}
+
+.portugallist25footerlogos ul {
+    padding-bottom: 15px;
+}
+
+
+.txnewherotext h1 {
+    font-size: 30px;
+    padding-bottom: 25px;
+}
+
+.txnewhero-area {
+    padding: 26px 0;
+    padding-bottom: 0px;
+}
+
+.portugallist25popular-part {
+    grid-template-columns: repeat(1, 1fr);
+    grid-column-gap: 0px;
+    align-items: center;
+    grid-row-gap: 35px;
+}
+
+.portugallist25-copyright-area {
+    padding: 10px 0;
+}
+
+.portugallist25popular-boxs {
+    padding: 15px;
+    padding-top: 30px;
+}
+
+.popularpt img {
+    height: 22px;
+}
+
+.popularpt h3 {
+    font-size: 12px;
+    padding-top: 6px;
+    padding-left: 9px;
+}
+
+.portugallist25pr-item1right h6 {
+    font-size: 12px;
+}
+
+.portugallist25pr-item1right h3 {
+    font-size: 18px;
+    padding-bottom: 4px;
+    line-height: 26px;
+}
+
+.portugallist25-faqpart {
+    border-radius: 20px;
+    padding: 30px 15px;
+    padding-bottom: 10px;
+}
+
+
+.portugallist25-min2bg-area {
+    background-image: initial;
+    padding: 45px 0;
+}
+
+
+.portugallist25prtext-item1 ul li h6 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 24px;
+    font-weight: 300;
+    padding-left: 16px;
+    margin-top: -16px;
+}
+
+.portugallist25prtext-item1 ul {
+    padding-top: 14px;
+    padding-bottom: 25px;
+}
+
+
+
+.portugallist25header-part {
+    border-radius: 15px;
+    padding: 30px 7px;
+}
+
+.portugallist25-ofrbs-boxlogo {
+        width: 100%;
+        height: 86px;
+        padding: 0 18px;
+        box-sizing: border-box;
+}
+
+.portugallist25offer p {
+    padding: 4px 0;
+}
+
+
+.portugallist25texthero-hd h1 {
+    font-size: 35px;
+    padding-bottom: 35px;
+}
+
+.portugallist25text-item1 h2 {
+    font-size: 20px;
+    line-height: 32px;
+    padding-bottom: 20px;
+}
+
+.portugallist25text-item1 p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.portugallist25texthero-area {
+    padding: 40px 0;
+    padding-bottom: 10px;
+}
+
+}

@@ -1,0 +1,1059 @@
+/*
+
+*/
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+body {	
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;    
+	background: #fff;
+	color: #333333;	
+}
+
+a,a:hover {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+::selection {
+    color: white; 
+    background: #ff7675;
+}
+
+::-webkit-selection {
+    color: white; 
+    background: #ff7675;
+}
+
+::-moz-selection {
+    color: white; 
+    background: #ff7675;
+}
+
+.container {
+    max-width: 1240px;
+    display: block;
+    margin: auto;
+    padding: 0 15px;
+}
+
+/*--- portugallist25-top18plus-area start --*/
+.portugallist25-top18plus-area {
+  background-color: #F23154;
+  padding: 8px 0;  
+}
+
+.portugallist25-top18plus-part p {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.portugallist25-top18plus-part p img {
+    max-width: 100%;
+    display: block;
+    margin-right: 5px;
+}
+
+/*--- portugallist25main-area start --*/
+.mbportugallist25main-area {
+  background-image: url('img/mbbg1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.portugallist25main-area {
+  padding: 85px 0;
+  background-image: url('img/bg1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.portugallist25headertext h1 {
+    font-family: "Nanum Myeongjo", serif;
+    color: #fff;
+    font-size: 60px;
+    font-weight: 400;
+    margin: 0;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.portugallist25header-part {
+    border-radius: 23px;
+    border: 1px solid #FFF;
+    background: rgba(0, 0, 0, 0.10);
+    backdrop-filter: blur(32.5px);
+    padding: 55px 0;
+    box-sizing: border-box;    
+}
+
+
+.portugallist25headertext p {
+    color: #fff;
+    font-size: 18px;
+    margin: 0;
+    line-height: 30px;
+    font-weight: 300;
+    text-align: center; 
+}
+
+.portugallist25headertext ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    padding-top: 45px;
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+}
+
+.portugallist25headertext ul li {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+
+.portugallist25headertext ul li:first-child {
+    margin-left: 0;
+}
+
+.portugallist25headertext ul li:last-child {
+    margin-right: 0;
+}
+
+.portugallist25headertext ul li img {
+    max-width: 100%;
+}
+
+.portugallist25headertext ul li h6 {
+    color: #fff;
+    font-size: 16px;
+    margin: 0;
+    font-weight: 600;
+    position: relative;
+    padding-left: 4px;
+}
+
+/*--- portugallist25texthero-area start --*/
+.portugallist25texthero-area {
+  padding: 80px 0;
+  padding-bottom: 50px;
+}
+
+.portugallist25texthero-hd h1 {
+    font-family: "Nanum Myeongjo", serif;
+    color: #000000;
+    font-size: 60px;
+    font-weight: 400;
+    margin: 0;
+    padding-bottom: 60px;
+}
+
+.portugallist25text-item1 {
+    padding-bottom: 35px;   
+}
+
+.portugallist25text-item1 h2 {
+    color: #000;
+    font-size: 30px;
+    font-weight: 400;
+    padding-bottom: 17px;
+}
+
+.portugallist25text-item1 p {
+     color: #000;
+    font-size: 18px;
+    margin: 0;
+    line-height: 30px;
+    font-weight: 300;   
+}
+
+
+
+
+
+
+
+
+/*--- portugallist25-ofrbs-box-area  start --*/
+.portugallist25-ofrbs-box-area {
+  padding: 80px 0;
+  padding-bottom: 0px;
+}
+
+
+.portugallist25-ofrbs-boxlogo {
+    width: 226px;
+    height: 133px;
+    position: relative;
+    border-radius: 12px;
+    border: 1px solid #FFF;
+    background: #0A308D;
+    display: grid;
+    align-items: center;
+    overflow: hidden;
+}
+
+
+.main-portugallist25-ofrbs-box {
+    display: flex;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(36.25px);
+    padding: 15px;
+    padding-right: 25px;
+    align-items: center;
+    margin-bottom: 35px;
+}
+
+
+.portugallist25-ofrbs-boxleft {
+    width: 80%;
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.portugallist25-ofrbs-boxright {
+    width: 20%;
+}
+
+.portugallist25-offterboxlogo {
+    width: 25%; 
+}
+
+.portugallist25-ofrbsbox-text {
+    width: 30%;
+    padding-left: 55px;
+}
+
+.portugallist25-ofrbsbox-star {
+    width: 25%;
+}
+
+.portugallist25-ofrbsbox-score {
+    width: 20%;
+}
+
+
+
+.portugallist25boxlogo {
+    max-width: 100%;
+    display: block;
+    position: relative;
+    z-index: 999;
+    margin: auto;
+}
+
+
+
+
+.portugallist25-ofrbsbox-text h3 {
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    margin: 0;
+    line-height: 35px;
+    padding-bottom: 0px;
+}
+
+
+
+.portugallist25-ofrbsbox-text p {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 34px;
+    padding-top: 10px;
+}
+
+
+
+.portugallist25-ofrbsbox-star img {
+    max-width: 100%;
+    display: block;
+    margin: auto;   
+}
+
+.portugallist25-ofrbsbox-star p {
+    color: #fff;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 600;
+    padding-top: 9px;  
+}
+
+.portugallist25-ofrbsbox-score h3 {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    margin: 0;
+    line-height: 42px;
+}
+
+.portugallist25-ofrbsbox-score p {
+    color: #fff;
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+    font-weight: 600;
+    padding-top: 7px;   
+}
+
+
+
+.portugallist25-ofrbs-boxbtn a {
+   color: #fff;
+    font-size: 18px;
+    text-align: center;
+    width: 227px;
+    height: 56px;
+    line-height: 55px;
+    text-transform: uppercase;
+    font-weight: 400;
+    align-items: center;
+    margin: auto;
+    display: flex
+;
+    justify-content: center;
+    border-radius: 10px;
+    gap: 8px;
+    background: linear-gradient(184deg, #FF385C 3.65%, #99001C 98.16%);
+}
+
+.portugallist25-ofrbs-boxbtn a img {
+    max-width: 100%;
+    display: block;
+}
+
+
+
+.portugallist25-ofrbs-boxbtn a:hover {
+    background-color: #fff;
+}
+
+.mainportugallist25offer {
+  position: absolute;
+  top: 9%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.portugallist25offer {
+    width: 154px;
+    height: 25px;
+    position: relative;
+}
+
+.portugallist25offer img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    z-index: 99;
+    top: 0;
+}
+
+
+.portugallist25offer p {
+    color: #fff;
+    font-size: 9px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    z-index: 99;
+    padding: 2px 0;
+}
+
+
+
+
+/*--- portugallist25prtext-area start --*/
+.portugallist25prtext-area {
+  padding: 60px 0; 
+  background-color: #fff;
+}
+
+.portugallist25-francecsno-text-area2 {
+    padding: 30px 0;
+    padding-bottom: 40px;
+}
+
+
+.portugallist25prtext-hd {
+    padding-bottom: 50px;
+}
+
+.portugallist25prtext-hd h2 {
+    color: #000;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    padding-bottom: 8px;
+}
+
+.portugallist25prtext-hd p {
+    color: #000;
+    font-size: 16px;
+    margin: 0;
+    line-height: 26px;
+    font-weight: 300;   
+}
+
+.portugallist25prtext-item1 {
+    padding-bottom: 35px;
+}
+
+.portugallist25prtext-item1 h2 {
+    color: #000;
+    font-size: 25px;
+    font-weight: 500;
+    padding-bottom: 8px;
+}
+
+.portugallist25prtext-item1 p {
+    color: #000;
+    font-size: 18px;
+    margin: 0;
+    line-height: 30px;
+    font-weight: 300;  
+}
+
+
+.portugallist25prtext-item1 ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    padding-top: 30px;
+    padding-bottom: 35px;
+}
+
+.portugallist25prtext-item1 ul li {
+    display: block;
+    padding-bottom: 10px;
+}
+
+.portugallist25prtext-item1 ul li span {
+    width: 5px;
+    height: 5px;
+    background-color: #000;
+    border-radius: 50%;
+    display: block;
+}
+
+.portugallist25prtext-item1 ul li:last-child {
+    padding-bottom: 0px;
+}
+
+.portugallist25prtext-item1 ul li h6 {
+    color: #000;
+    font-size: 18px;
+    margin: 0;
+    line-height: 30px;
+    font-weight: 300;
+    padding-left: 17px;
+    margin-top: -17px; 
+}
+
+
+
+/*--- portugallist25footer-area start --*/
+.portugallist25footer-area {
+    background-color: #00224C;
+    padding: 0px 0;
+    padding-bottom: 0px;
+}
+
+.portugallist25footer-part {
+    padding-top: 80px;
+}
+
+.portugallist25footer-nav ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-align: center;
+    padding-bottom: 65px;
+    padding-top: 18px;
+}
+
+.portugallist25footer-nav ul li {
+    display: inline-block;
+    margin-right: 28px;
+}
+
+.portugallist25footer-nav ul li:first-child {
+    margin-left: 0px;
+}
+
+.portugallist25footer-nav ul li:last-child {
+    margin-right: 0px;
+}
+
+.portugallist25footer-nav ul li span {
+    color: #fff;
+    font-size: 16px;
+}
+
+.portugallist25footer-nav ul li a {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: underline;
+    display: block;
+    transition: 0.2s all ease;
+}
+
+.portugallist25footer-nav ul li a:hover {
+    color: #ff385c;
+}
+
+.portugallist25footerlogos ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    padding-bottom: 35px;
+    text-align: center;
+}
+
+.portugallist25footerlogos ul li {
+    display: inline-block;
+    margin: 0 6px;
+}
+
+
+.portugallist25footerlogos ul li:first-child {
+    margin-left: 0px;
+}
+
+.portugallist25footerlogos ul li:last-child {
+    margin-right: 0px;
+}
+
+.portugallist25footerlogos ul li a img {
+    max-width: 100%;
+    display: block;
+}
+
+.portugallist25footerpr-part p {
+    color: #fff;
+    font-size: 18px;
+    margin: 0;
+    font-weight: 300;
+    line-height: 32px;
+    padding-bottom: 31px;
+    text-align: center;
+}
+
+/*--- hcopyright-area start --*/
+.portugallist25-copyright-area {
+    padding: 16px 0;
+    border-top: 1px solid #909090;
+}
+
+.portugallist25-copyright-area p {
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 300;
+    margin: 0px;
+}
+
+
+/*--- hero-area start --*/
+.newhero-area {
+    background-color: #eceff6;
+    padding: 65px 0
+}
+
+.newhero-part {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.newhero-left {
+    width: 50%;
+}
+
+.newhero-right {
+    width: 50%;
+}
+
+
+.newhero-left h2 {
+    font-family: "Overlock", sans-serif;
+    color: #29539F;
+    font-size: 55px;
+    font-weight: 900;
+    padding-bottom: 5px;
+}
+
+.newhero-left p {
+    color: #000000;
+    font-size: 19px;
+    margin: 0;
+    padding-top: 7px;   
+}
+
+.newhero-left img {
+    display: none;
+}
+
+
+.newhero-right img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    margin-right: 0px;
+}
+
+
+
+/*--- newtexts-area start --*/
+.newtexts-area {
+    background-color: #fff;
+    padding: 70px 0;
+}
+
+.newtextitem1 {
+    padding-bottom: 30px;
+}
+
+.newtextitem1 h2 {
+    font-family: "Overlock", sans-serif;
+    color: #29539F;
+    font-size: 37px;
+    font-weight: 900;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.newtextitem1 p {
+    color: #000;
+    font-size: 19px;
+    line-height: 33px;
+    margin: 0;
+}
+
+.newtextitem1 p a {
+    color: #29539F;
+}
+
+
+.newtextitem2 {
+    padding-bottom: 30px;
+}
+
+.newtextitem2 h2 {
+    font-family: "Overlock", sans-serif;
+    color: #29539F;
+    font-size: 37px;
+    font-weight: 900;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+
+.newtextitem2 h3 {
+    color: #000;
+    font-size: 19px;
+    line-height: 33px;
+    margin: 0;
+    font-weight: 400;
+}
+
+.newtextitem2 ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    padding-left: 11px;
+    padding-top: 20px;
+    padding-bottom: 8px;
+}
+
+.newtextitem2 ul li {
+   display: block;
+   padding-bottom: 12px;
+}
+
+.newtextitem2 ul li:last-child {
+   padding-bottom: 0px;    
+}
+
+.newtextitem2 ul li span {
+    width: 5px;
+    height: 5px;
+    background-color: #212529;
+    display: block;
+    border-radius: 40px;   
+}
+
+.newtextitem2 ul li p {
+    color: #000;
+    font-size: 19px;
+    line-height: 36px;
+    margin: 0;
+    padding-left: 14px;
+    margin-top: -21px;
+    font-weight: 400;
+}
+
+
+.Cookieslist {
+    padding-top: 0 !important;
+    margin-left: 20px !important;    
+}
+
+.newtextitems2 {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    border-bottom: none;
+}
+
+
+
+
+.portugallist25-francecsno-text-area2 .portugallist25text-part {
+    padding: 65px 50px;
+    padding-bottom: 25px;
+}
+
+
+
+/*--- portugallist25popular-area start---*/
+.portugallist25popular-area {
+    padding: 0px 0;
+    padding-top: 0px;
+}
+
+.portugallist25popular-part {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 45px;
+    align-items: center;
+    justify-content: space-around;
+    grid-row-gap: 20px;
+}
+
+
+.portugallist25popular-boxs {
+    border-radius: 10px;
+    border: 1px solid #FFF;
+    background: rgba(255, 255, 255, 0.10);
+    backdrop-filter: blur(25px);
+    padding: 20px;
+    padding-top: 35px;
+    position: relative;
+}
+
+.portugallist25pr-item1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 25px;
+}
+
+.portugallist25pr-item1left {
+    width: 50%;
+}
+
+.portugallist25pr-item1right {
+   width: 50%;
+}
+
+.popularpt-logos {
+    padding-bottom: 25px;   
+}
+
+.popularpt-logos img {
+    max-width: 100%;
+    display: block;
+}
+
+
+.popularpt img {
+    max-width: 100%;
+    display: block;
+}
+
+.popularpt h3 {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+    padding-top: 6px;
+    padding-left: 8px;    
+}
+
+
+.portugallist25pr-item1right p {
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+    width: 65px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    line-height: 31px;
+    text-align: end;
+    border-radius: 100px;
+    background: var(--gold, linear-gradient(270deg, #CC962E 0%, #FFE684 50.48%, #C48A23 100%));
+    align-items: center;
+    margin: auto;
+    margin-right: 0;
+    margin-bottom: 17px;
+}
+
+.portugallist25pr-item1right p sub {
+    font-size: 11px;
+    font-weight: bold;
+    padding-left: 1px;
+    position: relative;
+    top: 3px;
+}
+
+
+.portugallist25pr-item1right h3 {
+    color: #fff;
+    font-size: 24px;
+    margin: 0;
+    font-weight: bold;
+    padding-bottom: 8px;
+    line-height: 29px;
+    text-align: right;
+}
+
+
+.portugallist25pr-item1right h6 {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: right;
+    margin: 0;   
+}
+
+
+
+
+.portugallist25popular-btn a {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 13px 0;
+    height: 49px;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    border-radius: 7px;
+    background: var(--button, linear-gradient(184deg, #FF385C 3.65%, #99001C 98.16%));
+}
+
+
+
+.populartag {
+    border-radius: 9px 0px;
+    background: #0A308D;
+    width: 73px;
+    height: 22px;
+    display: grid;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+.populartag p {
+  color: #fff;
+  font-size: 10px;
+  font-weight: bold;
+} 
+
+/*--- mainbg2 area start---*/
+.mobile-portugallist25-min2bg {
+    background-image: url('img/mbbg2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 0px 0;
+}
+
+.portugallist25-min2bg-area {
+    background-image: url('img/bg2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 150px 0;
+}
+
+
+
+
+
+/*--- portugallist25-faq-area start---*/
+.portugallist25-faq-area {
+    padding: 0px 0;
+    padding-bottom: 120px;
+}
+
+.portugallist25-faqpart {
+    border-radius: 23px;
+    border: 1px solid #FFF;
+    background: rgba(0, 0, 0, 0.10);
+    backdrop-filter: blur(56.54999923706055px);
+    padding: 60px 40px;
+    padding-bottom: 35px;  
+}
+
+
+.portugallist25-faqhd {
+   padding-bottom: 30px;
+}
+
+.portugallist25-faqhd h2 {
+    color: #fff;
+    font-size: 45px;
+    text-align: center;
+    font-weight: 400;  
+}
+
+
+
+.ziehharmonika h3 {
+    color: #fff;
+    font-size: 24px;
+    text-align: left;
+    border-radius: 0px;
+    padding: 20px 0px;
+    cursor: pointer;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding-right: 30px;
+    transition: 0.25s all;
+    position: relative;
+    border-bottom: 1px solid #fff;
+}
+
+.ziehharmonika h3.active {
+    margin-bottom: 0px;
+    border-bottom: none;
+}
+
+.lastfqitem {
+  border: none !important;
+}
+
+
+.lastfqitem1 {
+  border: none !important;
+}
+
+
+
+
+.ziehharmonika h3::before {
+    content: attr(data-prefix);
+    font-size: 18px;
+    margin-right: 9px;
+}
+
+.ziehharmonika h3.alignLeft {
+    padding-left: 35px;
+}
+.ziehharmonika > div {
+    display: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    background: none;
+    text-align: left;
+    padding: 25px 0px;
+    padding-right: 30px;
+    margin-bottom: 0px;
+    line-height: 32px;
+    padding-top: 0px;
+    border-bottom: 1px solid #fff;
+
+}
+
+
+
+.ziehharmonika .arrowDown {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 13.0px 7.5px 0 7.5px;
+    border-color: #272e35 transparent transparent transparent;
+    position: absolute;
+    bottom: 0;
+    left: 40px;
+    transition: 0.25s all;
+    opacity: 0;
+}
+
+.ziehharmonika .collapseIcon {
+    position: absolute;
+    right: 0px;
+    top: 52%;
+    font-size: 40px;
+    font-weight: 600;
+    -ms-transform: translate(0, -50%);
+        transform: translate(0, -50%);
+}
+.ziehharmonika .collapseIcon.alignLeft {
+    right: initial;
+    left: 20px;
+}
+
+
+
+
+
+
+.mbofrbsbox-bonus {
+    display: none;
+}
+
+.offerbgcl {
+    background: #e4e4e459;
+}
+
+.offerbrcl {
+    border-top: 0px;
+}
+
+.borderradius1 {
+    border-radius: 0px 0px 0px 14px;
+}
+
+.borderradius2 {
+   border-radius: 0px 0px 14px 0px;
+}
+
+
